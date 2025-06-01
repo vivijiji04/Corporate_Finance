@@ -1,0 +1,11 @@
+matplotlib
+scipy
+networkx
+numpy
+ipywidgets
+ipympl
+matplotlib-venn
+jupyterlab_widgets
+numpy-financial
+yfinance
+pandas
